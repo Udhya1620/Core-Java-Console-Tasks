@@ -1,4 +1,4 @@
-package practicecodes;
+package problems_for_practice;
 
 class Animal{
 	 Animal(String name){

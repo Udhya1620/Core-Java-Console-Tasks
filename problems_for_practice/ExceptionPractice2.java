@@ -1,6 +1,5 @@
 
-package practicecodes;
-
+package problems_for_practice;
 import java.util.Scanner;
 
 @SuppressWarnings("serial")

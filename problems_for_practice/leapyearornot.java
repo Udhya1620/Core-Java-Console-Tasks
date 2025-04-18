@@ -1,8 +1,8 @@
-package practicecodes;
+package problems_for_practice;
 
 import java.util.*;
 
-public class leapyearornot {
+public class LeapYearOrNot {
 	
   @SuppressWarnings("resource")
 public static void main (String[]args) {

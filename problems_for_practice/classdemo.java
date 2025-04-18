@@ -1,4 +1,4 @@
-package practicecodes;
+package problems_for_practice;
 class Box{
 	int length;
 	int breadth;
@@ -14,7 +14,7 @@ class Box{
 }
 
 
-public class classdemo {
+public class ClassDemo {
 	static int boxvolume(int length, int breadth, int height) {
 		return length*breadth*height;
 	}
@@ -32,13 +32,7 @@ public class classdemo {
 		
 		System.out.println(blackbox.height + " and " + blackbox.length);
 		System.out.println(boxvolume(20,30,89));
-		
-		
-		
-		
-		
-		
-	    
+			    
 	}
 
 }

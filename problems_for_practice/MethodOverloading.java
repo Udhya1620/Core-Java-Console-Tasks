@@ -1,6 +1,6 @@
-package practicecodes;
+package problems_for_practice;
 
-public class Find {
+public class MethodOverloading {
     int add(int a, int b ) {
     	return a + b;
    }
@@ -14,12 +14,9 @@ public class Find {
     
     
    public static void main(String[]args) {
-	   Find fin = new Find();
+    MethodOverloading fin = new MethodOverloading();
 	  System.out.println(fin.add(1.0f,2));
 	
    }  
-   int add(int a, int b, int c) {
-   	return a + b + c ;
-  }
    
 }

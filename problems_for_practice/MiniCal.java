@@ -1,6 +1,6 @@
-package practicecodes;
+package problems_for_practice;
 import java.util.*;
-public class minical {
+public class MiniCal {
 
 	public static void main(String[] args) {
 		

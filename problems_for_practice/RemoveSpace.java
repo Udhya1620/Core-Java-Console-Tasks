@@ -1,4 +1,4 @@
-package J7part1;
+package problems;
 
 import java.util.Scanner;
 

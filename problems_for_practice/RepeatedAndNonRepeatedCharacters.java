@@ -1,4 +1,4 @@
-package J7part1;
+package problems;
 
 import java.util.Scanner;
 
@@ -39,6 +39,6 @@ public class RepeatedAndNonRepeatedCharacters {
 		System.out.println("Total no of repeated Characters : " + repeatedCharacters);
 		System.out.println("Total no of non repeated Characters : " + nonRepeatedCharacters);
 		
-		
+		scan.close();
 	}
 }
