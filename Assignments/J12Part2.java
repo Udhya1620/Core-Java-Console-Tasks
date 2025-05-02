@@ -4,12 +4,12 @@ import java.util.InputMismatchException;
 
 import java.util.Scanner;
 
-import J12part2.AgeTooLargeException;
-import J12part2.AgeTooLessException;
-import J12part2.InvalidAgeException;
-import J12part2.InvalidLocationException;
-import J12part2.BankAccount;
-import J12part2.InsufficientFundsException;
+import customExceptions.AgeTooLargeException;
+import customExceptions.AgeTooLessException;
+import customExceptions.BankAccount;
+import customExceptions.InsufficientFundsException;
+import customExceptions.InvalidAgeException;
+import customExceptions.InvalidLocationException;
 
 public class J12Part2 {
 

@@ -1,4 +1,4 @@
-package J12part2;
+package customExceptions;
 
 @SuppressWarnings("serial")
 public class InsufficientFundsException extends Exception{

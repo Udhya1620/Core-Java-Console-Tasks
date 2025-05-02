@@ -2,7 +2,7 @@ package J8part1;
 
 import java.util.Scanner;
 
-public class J8part1 {
+public class MainClass {
 
 	public static void main(String[] args) {
         
