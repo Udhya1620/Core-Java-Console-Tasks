@@ -1,6 +1,6 @@
 package J11part2;
 
-public class J11part2 {
+public class MainClass {
 
 	public static void main(String[] args) {
 
