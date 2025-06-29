@@ -1,4 +1,4 @@
-package ExceptionalHandling;
+package exceptionalHandling;
 import java.util.Scanner;
 public class ArrayInput {
 	public static void main(String[] args) {
