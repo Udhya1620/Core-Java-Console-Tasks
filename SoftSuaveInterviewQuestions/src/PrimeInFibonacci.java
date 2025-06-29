@@ -1,4 +1,4 @@
-package interviewQuestionsForPractice;
+
 import java.util.ArrayList;
 public class PrimeInFibonacci {
     public static void main(String[] args){
